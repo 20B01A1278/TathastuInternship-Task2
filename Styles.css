@@ -1,0 +1,38 @@
+ul li{
+    cursor: pointer;
+}
+
+a{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+.images{
+    height: 200px;
+    width: 315px;
+}
+
+.icons{
+    width: 20px;
+    height: 20px;
+}
+
+.Table{
+    
+    padding: 1cm;
+    justify-content: center;
+    display: grid;
+    
+    
+}
+
+.logo{
+    width: 40px;
+    height: 40px;
+    border-radius: 30px;
+}
+.Navbar{
+   
+    position: sticky;
+    top: 0;
+}
